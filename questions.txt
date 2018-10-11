@@ -1,3 +1,3 @@
 what is the capital of france?|Paris
-what is the capital oif ireland?|dublin
+what is the capital of ireland?|dublin
 how many in a dozen?|12
